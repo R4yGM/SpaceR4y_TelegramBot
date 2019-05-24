@@ -1,6 +1,7 @@
 const Telegraf = require('telegraf');
 var request = require("request");
-const token = 'xxxxxxxxxxxxxxxxxxxxxxxxx';
+var key = require('token');
+const token = 'key.token';
 const bot = new Telegraf(token);
 
 const Markup = require('telegraf/markup')
