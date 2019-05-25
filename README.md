@@ -21,4 +21,4 @@ const request =  require('request')
 
 const telegraf = require('telegraf')
 ```
-and have fun modding the bot! :D
+and have fun using the bot! :D
