@@ -1,6 +1,6 @@
 # SpaceR4y_TelegramBot
 Telegram bot that can request some cool NASA api 
-the bot is actually active and in development you can chat with it here [t.me/R4ySpace_bot](t.me/R4ySpace_bot)
+the bot is actually offline [t.me/R4ySpace_bot](t.me/R4ySpace_bot)
 
 
 
